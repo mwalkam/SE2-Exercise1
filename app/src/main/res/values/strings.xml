@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">SE2 Exercise 1</string>
+    <string name="mat_nr_prompt">Gib deine Matrikelnummer ein</string>
+    <string name="mat_nr">Matrikelnummer</string>
+    <string name="server_response">Antwort vom Server</string>
+    <string name="send">Abschicken</string>
+    <string name="loading">Lade…</string>
 </resources>
