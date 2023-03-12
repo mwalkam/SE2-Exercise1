@@ -5,4 +5,8 @@
     <string name="server_response">Antwort vom Server</string>
     <string name="send">Abschicken</string>
     <string name="loading">Lade…</string>
+    <string name="alternating_digit_sum">Alternierende Quersumme</string>
+    <string name="alternating_digit_sum_odd">Alternierende Quersumme ist ungerade</string>
+    <string name="alternating_digit_sum_even">Alternierende Quersumme ist gerade</string>
+    <string name="invalid_input">Ungültige Eingabe</string>
 </resources>
